@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dooray-spring-boot-starter-application
+Implementation-Version: 2.1.3-SNAPSHOT
+Built-By: kaoni_dev2
+Implementation-Vendor-Id: com.nhn.edu.springboot.starter.application
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dooray-spring-boot-starter-application
+Created-By: Maven Integration for Eclipse
+
